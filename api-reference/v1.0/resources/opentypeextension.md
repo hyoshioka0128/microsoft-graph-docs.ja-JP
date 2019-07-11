@@ -85,8 +85,8 @@ Outlook リソースのオープン拡張を作成する場合は、次のガイ
 |:---------------|:--------|:----------|
 |[Post](../api/opentypeextension-post-opentypeextension.md) | (既存リソースのインスタンス内の) [openTypeExtension](opentypeextension.md)、または、openTypeExtension オブジェクトを含む新しい[contact](../resources/contact.md)、[event](../resources/event.md)、[message](../resources/message.md)。 | 既存または新規のリソース インスタンス内に openTypeExtension オブジェクトを作成します。|
 |[Get](../api/opentypeextension-get.md) | [openTypeExtension](opentypeextension.md) |openTypeExtension オブジェクトのプロパティと関係を読み取ります。|
-|[更新する](../api/opentypeextension-update.md) | [openTypeExtension](opentypeextension.md) |openTypeExtension オブジェクトを更新します。 |
-|[削除](../api/opentypeextension-delete.md) | なし |openTypeExtension オブジェクトを削除します。 |
+|[Update](../api/opentypeextension-update.md) | [openTypeExtension](opentypeextension.md) |openTypeExtension オブジェクトを更新します。 |
+|[Delete](../api/opentypeextension-delete.md) | なし |openTypeExtension オブジェクトを削除します。 |
 
 <!-- uuid: 8fcb5dbc-d5aa-4681-8e31-b001d5168d79
 2015-10-25 14:57:30 UTC -->
