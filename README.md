@@ -7,7 +7,7 @@ Microsoft Graph ドキュメントにご関心をお寄せいただき、あり�
 お客様からのフィードバックを重視しています。
 
 - ドキュメントに関する質問や問題については、このリポジトリに[問題を送信](https://github.com/microsoftgraph/microsoft-graph-docs/issues)してお知らせください。
-- また、フォーク、修正、提案される変更のプル要求もお願いしています。 投稿のガイドラインについては、[CONTRIBUTING.md](CONTRIBUTING.md) をご覧ください。
+- また、フォーク、修正、提案される変更のプルリクエストもお願いしています。 投稿のガイドラインについては、[CONTRIBUTING.md](CONTRIBUTING.md) をご覧ください。
 - プログラミングの経験と、今後のバージョン、コード サンプルなどのご希望をご連絡いただく場合は、「[Office Developer Platform UserVoice](https://officespdev.uservoice.com/forums/224641-feature-requests-and-feedback?category_id=101632)」でご提案やアイデアを入力してください。
 
 ## <a name="code-of-conduct"></a>Code of conduct
